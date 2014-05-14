@@ -7,5 +7,6 @@ public class test {
 		System.out.println("hallo");
 		//hallo
 		JOptionPane.showMessageDialog(null, "hoi");
+		//hoi Yannick!
 	}
 }
